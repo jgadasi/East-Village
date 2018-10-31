@@ -7,7 +7,7 @@
 ## Census Tract Codes: 
 0042.00, 0040.00, 0034.00, 0028.00, 0024.00, 0038.00, 0032.00, 0026.02,0026.01, 0036.02, 0030.02, 0022.02, 0020.00
 ## Map of Neighborhood: 
-[Name of Image](link "Alt Text")
+![Map](link "Alt Text")
 ## Picture of Neighborhood
 
 ## Neighborhood Demographics
@@ -23,10 +23,5 @@
 1st Avenue L-Train 
 ## Turnstile: 
 01-00-00
-## Entries 
-
-## Exits 
-
-## Entries/Exits 
-
-
+## Entries, Exits, and Entries/Exits
+![Graphs][eastvillagetrain]
