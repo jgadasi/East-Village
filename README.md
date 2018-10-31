@@ -24,4 +24,4 @@
 ## Turnstile: 
 01-00-00
 ## Entries, Exits, and Entries/Exits
-![Graphs][eastvillagetrain]
+![Graphs](eastvillagetrain)
